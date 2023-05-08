@@ -1,0 +1,42 @@
+{
+  "netflix": {
+    "top6": [
+      {
+        "title": "Stranger Things",
+        "genre": "Science Fiction/Horror",
+        "release_year": 2016,
+        "rating": 8.8
+      },
+      {
+        "title": "The Crown",
+        "genre": "Historical Drama",
+        "release_year": 2016,
+        "rating": 8.7
+      },
+      {
+        "title": "Ozark",
+        "genre": "Crime Drama",
+        "release_year": 2017,
+        "rating": 8.4
+      },
+      {
+        "title": "Money Heist",
+        "genre": "Crime Drama",
+        "release_year": 2017,
+        "rating": 8.4
+      },
+      {
+        "title": "Narcos",
+        "genre": "Crime Drama",
+        "release_year": 2015,
+        "rating": 8.8
+      },
+      {
+        "title": "The Witcher",
+        "genre": "Fantasy Drama",
+        "release_year": 2019,
+        "rating": 8.2
+      }
+    ]
+  }
+}
